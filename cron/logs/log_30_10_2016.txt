@@ -1,0 +1,54 @@
+1) Jayant Pareek:  
+-------------------------
+Date Diff (in days) - 69
+Total Holidays - 21
+Total Leaves - 
+Total Non-Working Days - 21
+Total Working Days - 48
+Total EL (Calculated)- 3.32
+
+EL has been successfully updated.
+--------------*********--------------
+
+2) Ajay Kumar:  
+-------------------------
+Date Diff (in days) - 74
+Total Holidays - 1
+Total Leaves - 
+Total Non-Working Days - 1
+Total Working Days - 73
+Total EL (Calculated)- 6.64
+
+EL has been successfully updated.
+--------------*********--------------
+
+3) Akshay Diwedi:  
+-------------------------
+Date Diff (in days) - 109
+Total Holidays - 33
+Total Leaves - 
+Total Non-Working Days - 33
+Total Working Days - 76
+Total EL (Calculated)- 6.64
+
+EL has been successfully updated.
+--------------*********--------------
+
+4) Aniket Jain:  
+-------------------------
+Date Diff (in days) - 151
+Total Holidays - 52
+Total Leaves - 5.5
+Total Non-Working Days - 57.5
+Total Working Days - 93.5
+Total EL (Calculated)- 8.3
+
+EL has been successfully updated.
+--------------*********--------------
+
+5) Super Admin:  
+-------------------------
+Joining date is not set for the employee
+
+
+Mail has been sent.

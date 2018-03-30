@@ -1,0 +1,56 @@
+1) Jayant Pareek:  
+-------------------------
+Employee is not applicable for EL.
+--------------*********--------------
+
+2) Ajay Kumar:  
+-------------------------
+Date of last updation(EL) is not appropriate for the employee. Please update it once manually.
+--------------*********--------------
+
+3) Akshay Diwedi:  
+-------------------------
+Date Diff (in days) - 31
+Total Holidays - 10
+Total Leaves - 9
+Total Non-Working Days - 19
+Previous Remaining Countable Days - 12
+Total Working Days for this period (Date Diff - Total Non-Working Days + Previous Remaining Countable Days) - 24
+EL to be added - 1.66
+Remaining Countable Days for Next Updation- 6
+
+EL has been successfully updated.
+--------------*********--------------
+
+4) Aniket Jain:  
+-------------------------
+Date Diff (in days) - 0
+Total Holidays - 0
+Total Leaves - 0
+Total Non-Working Days - 0
+Previous Remaining Countable Days - 14
+Total Working Days for this period (Date Diff - Total Non-Working Days + Previous Remaining Countable Days) - 14
+EL to be added - 0
+Remaining Countable Days for Next Updation- 14
+
+EL has been successfully updated.
+--------------*********--------------
+
+5) Super Admin:  
+-------------------------
+Date Diff (in days) - 0
+Total Holidays - 0
+Total Leaves - 0
+Total Non-Working Days - 0
+Previous Remaining Countable Days - 14
+Total Working Days for this period (Date Diff - Total Non-Working Days + Previous Remaining Countable Days) - 14
+EL to be added - 0
+Remaining Countable Days for Next Updation- 14
+
+EL has been successfully updated.
+--------------*********--------------
+
+
+
+
+Mail has been sent.

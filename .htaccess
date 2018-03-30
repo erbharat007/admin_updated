@@ -1,0 +1,6 @@
+Options +FollowSymlinks
+# Prevent Directoy listing 
+Options -Indexes
+
+RewriteEngine On
+RewriteBase /admin

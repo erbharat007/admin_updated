@@ -1,0 +1,47 @@
+1) Anmol Pareek:  
+-------------------------
+Date Diff (in days) - 0
+Total Holidays - 0
+Total Leaves - 0
+Total Non-Working Days - 0
+Previous Remaining Countable Days - 0
+Total Working Days for this period (Date Diff - Total Non-Working Days + Previous Remaining Countable Days) - 0
+EL to be added - 0
+Remaining Countable Days for Next Updation - 0
+
+EL has been successfully updated.
+--------------*********--------------
+
+2) Jayant Pareek:  
+-------------------------
+Date Diff (in days) - 0
+Total Holidays - 0
+Total Leaves - 0
+Total Non-Working Days - 0
+Previous Remaining Countable Days - 0
+Total Working Days for this period (Date Diff - Total Non-Working Days + Previous Remaining Countable Days) - 0
+EL to be added - 0
+Remaining Countable Days for Next Updation - 0
+
+EL has been successfully updated.
+--------------*********--------------
+
+
+EL is not specified for the employee. Please update it once manually.
+--------------*********--------------
+
+
+EL is not specified for the employee. Please update it once manually.
+--------------*********--------------
+
+
+EL is not specified for the employee. Please update it once manually.
+--------------*********--------------
+
+
+EL is not specified for the employee. Please update it once manually.
+--------------*********--------------
+
+
+
+Report Couldn't be sent on mail due to the below error : Could not instantiate mail function.
