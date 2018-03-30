@@ -1198,7 +1198,8 @@ if(isset($_SESSION['msg']) && $_SESSION['msg']!="" && $_SESSION['msg2']=='')
         	</div>
         </div>
      </form>
-				<?php
+				<?php 
+				
 	// $dsqle = $objEmployee->getAllEmployees();
 	// $total_pages = $GLOBALS['obj_db']->num_rows($dsqle);
 	?>
